@@ -15,9 +15,10 @@ Feel free to explore my repositories and connect with me!
 
 ---
 
-## ✨ GitHub Stats
-![Aya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aya-Al-Wahidi&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
+## GitHub Stats
+![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyaAl-Wahidi&show_icons=true&theme=radical)
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyaAl-Wahidi&layout=compact&theme=radical)
 ---
 
 ## 🌐 Languages and Tools:
@@ -28,14 +29,14 @@ Feel free to explore my repositories and connect with me!
 - **React**, **Node.js**, **Express.js**, **Angular**, **Django**, **Flask**
 
 ### Tools & Technologies:
-- **Git** & **GitHub**, **Docker**, **Kubernetes**, **Postman**, **VSCode**
-- **CI/CD** (Jenkins, GitHub Actions), **Nginx**, **AWS**, **Heroku**
+- **Git** & **GitHub**, **Docker**, **Postman**, **VSCode**
+- **CI/CD** (Jenkins, GitHub Actions), **AWS**
 
 ### Databases:
 - **MongoDB**, **PostgreSQL**, **MySQL**, **SQLite**
 
 ### Design & Collaboration:
-- **Figma**, **Adobe XD**, **Jira**, **Trello**
+- **Figma**, **Adobe XD**, **Jira**
 
 ---
 
