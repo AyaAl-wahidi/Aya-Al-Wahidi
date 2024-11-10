@@ -16,12 +16,6 @@ Feel free to explore my repositories and connect with me!
 
 ---
 
-## ✨ GitHub Stats
-![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyaAl-Wahidi&show_icons=true&theme=radical)
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyaAl-Wahidi&layout=compact&theme=radical)
----
-
 ## 🌐 Languages and Tools:
 
 ### Programming Languages:
@@ -54,6 +48,13 @@ Feel free to explore my repositories and connect with me!
 ### Cloud Platforms:
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazonaws)
 ![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoftazure)
+
+---
+
+## ✨ GitHub Stats
+![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyaAl-Wahidi&show_icons=true&theme=radical)
+## 🌐 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyaAl-Wahidi&layout=compact&theme=radical)
 
 ---
 
