@@ -1,17 +1,53 @@
-# Hello, I'm Aya Al-Wahidi 👋
+# Hello, I'm Aya Al-Wahidi 👩‍💻
 
-Welcome to my GitHub! I'm a passionate developer with a love for learning and contributing to open-source projects. 🚀
+Welcome to my GitHub profile! I'm a **Software Engineer** with a passion for **problem-solving** and creating high-quality code. I enjoy working with cutting-edge technologies and am always striving to learn and grow as a developer. 🚀
 
-## ✨ GitHub Stats:
+With experience in various programming languages and frameworks, I thrive in collaborative, high-paced environments and aim to build impactful solutions. 
+
+Feel free to explore my repositories and connect with me!
+
+---
+
+## 🔭 What I'm Currently Working On
+- 💻 Building scalable web applications with **React**, **Node.js**, and **MongoDB**.
+- 📚 Learning more about **AI**, **Machine Learning**, and **Cloud Computing**.
+- 🧑‍🤝‍🧑 Contributing to open-source projects and collaborating with other developers.
+
+---
+
+## ✨ GitHub Stats
 ![Aya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aya-Al-Wahidi&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
+---
+
 ## 🌐 Languages and Tools:
-- **Languages:** Python, JavaScript, Java, HTML, CSS, SQL
-- **Tools:** Git, GitHub, VSCode, Docker, Kubernetes, Postman, Figma, Node.js, React, Angular
+### Programming Languages:
+- **JavaScript**, **Python**, **Java**, **TypeScript**, **SQL**, **HTML5**, **CSS3**
 
-## 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/aya-alwahidi/)
-- [Hacker Rank](https://www.hackerrank.com/profile/ayanalwahidi)
+### Frameworks & Libraries:
+- **React**, **Node.js**, **Express.js**, **Angular**, **Django**, **Flask**
 
+### Tools & Technologies:
+- **Git** & **GitHub**, **Docker**, **Kubernetes**, **Postman**, **VSCode**
+- **CI/CD** (Jenkins, GitHub Actions), **Nginx**, **AWS**, **Heroku**
 
-Feel free to explore my repositories and get in touch! 😊
+### Databases:
+- **MongoDB**, **PostgreSQL**, **MySQL**, **SQLite**
+
+### Design & Collaboration:
+- **Figma**, **Adobe XD**, **Jira**, **Trello**
+
+---
+
+## 📫 How to Reach Me:
+- 📧 **Email:** [ayanalwahidi@gmail.com](ayanalwahidi@gmail.com)
+- 🌐 **Website/Portfolio:** [Your Portfolio Link]()
+- 📱 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/aya-alwahidi/)
+
+---
+
+## 🤝 Let's Connect!
+I'm always looking to collaborate on exciting projects, contribute to open-source, and expand my network with other developers. Feel free to reach out to me for collaborations, speaking engagements, or just a friendly chat!
+
+---
+
