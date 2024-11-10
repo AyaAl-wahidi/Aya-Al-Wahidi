@@ -60,7 +60,7 @@ Feel free to explore my repositories and connect with me!
 
 ## 📫 How to Reach Me:
 - 📧 **Email:** [ayanalwahidi@gmail.com](ayanalwahidi@gmail.com)
-- 🌐 **Website/Portfolio:** [Your Portfolio Link]()
+- 🌐 **Website/Portfolio:** [Portfolio Link]()
 - 📱 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/aya-alwahidi/)
 
 ---
